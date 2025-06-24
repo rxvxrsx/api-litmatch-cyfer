@@ -35,5 +35,9 @@
     { "diamond": 9300, "discount": 0.0 },
     { "diamond": 9600, "discount": 0.0 },
     { "diamond": 9900, "discount": 0.0 }
-  ]
+  ],
+  "extra_discount": {
+    "per_item": 0.05,
+    "max": 0.3
+  }
 }
