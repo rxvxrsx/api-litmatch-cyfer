@@ -38,6 +38,6 @@
   ],
   "extra_discount": {
     "per_item": 0.02,
-    "max": 0.3
+    "max": 0.2
   }
 }
