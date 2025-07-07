@@ -2,24 +2,141 @@
   "base_price": 10,
   "base_diamond": 300,
   "discount_steps": [
-    { "diamond": 50, "discount": 0.05 },
-    { "diamond": 100, "discount": 0.1 }
+    {
+      "diamond": 300,
+      "discount": 0.0
+    },
+    {
+      "diamond": 600,
+      "discount": 0.0
+    },
+    {
+      "diamond": 900,
+      "discount": 0.0
+    },
+    {
+      "diamond": 1200,
+      "discount": 0.0
+    },
+    {
+      "diamond": 1500,
+      "discount": 0.0
+    },
+    {
+      "diamond": 1800,
+      "discount": 0.0
+    },
+    {
+      "diamond": 2100,
+      "discount": 0.0
+    },
+    {
+      "diamond": 2400,
+      "discount": 0.0
+    },
+    {
+      "diamond": 2700,
+      "discount": 0.0
+    },
+    {
+      "diamond": 3000,
+      "discount": 0.0
+    },
+    {
+      "diamond": 3300,
+      "discount": 0.0
+    },
+    {
+      "diamond": 3600,
+      "discount": 0.0
+    },
+    {
+      "diamond": 3900,
+      "discount": 0.0
+    },
+    {
+      "diamond": 4200,
+      "discount": 0.0
+    },
+    {
+      "diamond": 4500,
+      "discount": 0.0
+    },
+    {
+      "diamond": 4800,
+      "discount": 0.0
+    },
+    {
+      "diamond": 5100,
+      "discount": 0.0
+    },
+    {
+      "diamond": 5400,
+      "discount": 0.0
+    },
+    {
+      "diamond": 5700,
+      "discount": 0.0
+    },
+    {
+      "diamond": 6000,
+      "discount": 0.0
+    },
+    {
+      "diamond": 6300,
+      "discount": 0.0
+    },
+    {
+      "diamond": 6600,
+      "discount": 0.0
+    },
+    {
+      "diamond": 6900,
+      "discount": 0.0
+    },
+    {
+      "diamond": 7200,
+      "discount": 0.0
+    },
+    {
+      "diamond": 7500,
+      "discount": 0.0
+    },
+    {
+      "diamond": 7800,
+      "discount": 0.0
+    },
+    {
+      "diamond": 8100,
+      "discount": 0.0
+    },
+    {
+      "diamond": 8400,
+      "discount": 0.0
+    },
+    {
+      "diamond": 8700,
+      "discount": 0.0
+    },
+    {
+      "diamond": 9000,
+      "discount": 0.0
+    },
+    {
+      "diamond": 9300,
+      "discount": 0.0
+    },
+    {
+      "diamond": 9600,
+      "discount": 0.0
+    },
+    {
+      "diamond": 9900,
+      "discount": 0.0
+    }
   ],
   "extra_discount": {
     "per_item": 0.05,
-    "max": 0.3
-  },
-  "step_pricing": {
-    "enabled": true,
-    "first": {
-      "step_diamond": 1900,
-      "price_per_step": 50,
-      "max_diamond": 3000,
-      "price_at_max": 100
-    },
-    "after": {
-      "step_diamond": 3000,
-      "price_per_step": 100
-    }
+    "max": 0.2
   }
 }
