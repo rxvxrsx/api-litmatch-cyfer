@@ -2,9 +2,9 @@
   "base_price": 10,
   "base_diamond": 300,
   "discount_steps": [
-    { "diamond": 50, "discount": 0.05 },
-    { "diamond": 100, "discount": 0.1 },
-    { "diamond": 200, "discount": 0.15 }
+    { "diamond": 300, "discount": 0 },
+    { "diamond": 900, "discount": 0 },
+    { "diamond": 1000, "discount": 0}
   ],
   "extra_discount": {
     "per_item": 0.0,
