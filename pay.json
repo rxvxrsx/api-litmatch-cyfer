@@ -1,23 +1,13 @@
 {
-  "pricing_mode": "diamond",
-  "fixed_rate": [
-    {
-      "type": "diamond",
-      "min": 0,
-      "max": 1599,
-      "price_per_unit": 50
-    },
-    {
-      "type": "diamond",
-      "min": 1600,
-      "max": 3000,
-      "price_per_unit": 100
-    }
+  "base_price": 50,
+  "base_diamond": 300,
+  "discount_steps": [
+    { "diamond": 300, "discount": 0.0 },
+    { "diamond": 900, "discount": 0.0 },
+    { "diamond": 3000, "discount": -0.5 }
   ],
-  "extra_discounts": [
-    { "min_quantity": 2, "discount": 0.05 },
-    { "min_quantity": 5, "discount": 0.1 },
-    { "min_quantity": 10, "discount": 0.2 }
-  ],
-  "round_price_to": 10
+  "extra_discount": {
+    "per_item": 0.0,
+    "max": 0.0
+  }
 }
