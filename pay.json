@@ -1,17 +1,21 @@
 {
-  "base_price": 10,
-  "base_diamond": 300,
+  "base_price": 100,
+  "base_diamond": 10,
+  "minimum_price_rule": {
+    "threshold_diamond": 30,
+    "minimum_price": 10
+  },
   "discount_steps": [
-    { "diamond": 300, "discount": 0.0 },
-    { "diamond": 900, "discount": 0.0 },
-    { "diamond": 3000, "discount": 0.0 }
+    { "diamond": 200, "discount": 0.05 },
+    { "diamond": 500, "discount": 0.1 }
   ],
   "extra_discount": {
-    "per_item": 0.0,
-    "max": 0.0
+    "per_item": 0.02,
+    "max": 0.1
   },
-  "minimum_price_rule": {
-    "threshold_diamond": 900,
-    "minimum_price": 50
+  "specialPrices": {
+    "frames": {
+      "frame_id_123": 25
+    }
   }
 }
