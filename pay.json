@@ -1,39 +1,14 @@
 {
-  "pricing_mode": "day",  
+  "pricing_mode": "day",
   "fixed_rate": [
-    {
-      "type": "day",         
-      "min": 0,
-      "max": 1,
-      "price_per_unit": 50
-    },
-    {
-      "type": "day",
-      "min": 2,
-      "max": 7,
-      "price_per_unit": 45
-    },
-    {
-      "type": "diamond",
-      "min": 1600,
-      "max": 3000,
-      "price_per_unit": 100
-    }
+    { "type": "day", "min": 0, "max": 1, "price_per_unit": 50 },
+    { "type": "day", "min": 2, "max": 7, "price_per_unit": 45 },
+    { "type": "day", "min": 8, "max": 30, "price_per_unit": 40 }
   ],
   "extra_discounts": [
-    {
-      "min_quantity": 2,
-      "discount": 0.05
-    },
-    {
-      "min_quantity": 5,
-      "discount": 0.15
-    },
-    {
-      "min_quantity": 10,
-      "discount": 0.30,
-      "max_discount": true
-    }
+    { "min_quantity": 2, "discount": 0.05 },
+    { "min_quantity": 5, "discount": 0.15 },
+    { "min_quantity": 10, "discount": 0.3, "max_discount": true }
   ],
-  "round_price_to": 10 
+  "round_price_to": 10
 }
