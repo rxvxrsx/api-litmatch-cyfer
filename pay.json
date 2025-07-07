@@ -35,5 +35,5 @@
       "max_discount": true
     }
   ],
-  "round_price_to": 10  // ปัดเศษเป็นหลักสิบ
+  "round_price_to": 10 
 }
