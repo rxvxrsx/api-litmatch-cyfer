@@ -1,8 +1,8 @@
 {
-  "pricing_mode": "day",  // หรือ "diamond" ได้
+  "pricing_mode": "day",  
   "fixed_rate": [
     {
-      "type": "day",            // ใช้ "day" หรือ "diamond"
+      "type": "day",         
       "min": 0,
       "max": 1,
       "price_per_unit": 50
