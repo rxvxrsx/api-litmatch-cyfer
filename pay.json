@@ -9,5 +9,9 @@
   "extra_discount": {
     "per_item": 0.0,
     "max": 0.0
+  },
+  "minimum_price_rule": {
+    "threshold_diamond": 900,
+    "minimum_price": 50
   }
 }
