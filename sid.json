@@ -3,71 +3,113 @@
   "TH": {
     "sid": "session.v2.1435321502278166685",
     "flag": "TH",
-    "name": "ประเทศไทย"
+    "name": {
+      "th": "ประเทศไทย",
+      "en": "Thailand"
+    }
   },
   "PT": {
     "sid": "session.v2.1435797600435789516",
     "flag": "PT",
-    "name": "โปรตุเกส"
+    "name": {
+      "th": "โปรตุเกส",
+      "en": "Portugal"
+    }
   },
   "SA": {
     "sid": "session.v2.1435321234455838556",
     "flag": "SA",
-    "name": "ซาอุ/อาหรับ"
+    "name": {
+      "th": "ซาอุ/อาหรับ",
+      "en": "Saudi Arabia"
+    }
   },
   "BR": {
     "sid": "session.v2.1435320674695556392",
     "flag": "BR",
-    "name": "บราซิล"
+    "name": {
+      "th": "บราซิล",
+      "en": "Brazil"
+    }
   },
   "ID": {
     "sid": "session.v2.1435320118224132712",
     "flag": "ID",
-    "name": "อินโดนีเซีย"
+    "name": {
+      "th": "อินโดนีเซีย",
+      "en": "Indonesia"
+    }
   },
   "MY": {
     "sid": "session.v2.1435319281119330346",
     "flag": "MY",
-    "name": "มาเลเซีย"
+    "name": {
+      "th": "มาเลเซีย",
+      "en": "Malaysia"
+    }
   },
   "PH": {
     "sid": "session.v2.1435318985378893959",
     "flag": "PH",
-    "name": "ฟิลิปปินส์"
+    "name": {
+      "th": "ฟิลิปปินส์",
+      "en": "Philippines"
+    }
   },
   "SG": {
     "sid": "session.v2.1435321703237475792",
     "flag": "SG",
-    "name": "สิงคโปร์"
+    "name": {
+      "th": "สิงคโปร์",
+      "en": "Singapore"
+    }
   },
   "TR": {
     "sid": "session.v2.1435320928642885601",
     "flag": "TR",
-    "name": "ตุรกี"
+    "name": {
+      "th": "ตุรกี",
+      "en": "Turkey"
+    }
   },
   "TW": {
     "sid": "session.v2.1435319806726252934",
     "flag": "TW",
-    "name": "ไต้หวัน"
+    "name": {
+      "th": "ไต้หวัน",
+      "en": "Taiwan"
+    }
   },
   "VN": {
     "sid": "session.v2.1435319548202926362",
     "flag": "VN",
-    "name": "เวียดนาม"
+    "name": {
+      "th": "เวียดนาม",
+      "en": "Vietnam"
+    }
   },
   "ES": {
     "sid": "session.v2.1435798675260829332",
     "flag": "ES",
-    "name": "สเปน"
+    "name": {
+      "th": "สเปน",
+      "en": "Spain"
+    }
   },
   "FR": {
     "sid": "session.v2.1435799419129784679",
     "flag": "FR",
-    "name": "ฝรั่งเศส"
+    "name": {
+      "th": "ฝรั่งเศส",
+      "en": "France"
+    }
   },
   "SO": {
     "sid": "session.v2.1435800766657754546",
     "flag": "SO",
-    "name": "โซมาเลีย"
+    "name": {
+      "th": "โซมาเลีย",
+      "en": "Somalia"
+    }
   }
 }
