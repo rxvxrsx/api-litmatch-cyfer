@@ -1,10 +1,3 @@
 {
-  "description": "API สำหรับดึงข้อมูลส่วนตัวและยอดเพชร",
-  "endpoint": "https://www.litatom.com/api/sns/v1/lit/user/get_info/6733938be19b9277b905d264",
-  "params": {
-    "from": "me",
-    "sid": "session.v2.1454290725591308781",
-    "loc": "TH",
-    "uuid": "a8ae644c121b243c"
-  }
+  "url": "https://www.litatom.com/api/sns/v1/lit/user/get_info/6733938be19b9277b905d264?from=me&sid=session.v2.1454290725591308781&loc=TH&uuid=a8ae644c121b243c"
 }
