@@ -1,0 +1,33 @@
+{
+  "fixedSid": "session.v2.1454017218373881378",
+  "commonParams": {
+    "use": "im",
+    "gift_type": "frame",
+    "is_from_bag": "0",
+    "source": "im",
+    "combo": "0",
+    "gift_num": "1",
+    "enable_star": "0",
+    "loc": "TH",
+    "uuid": "a8ae644c121b243c",
+    "version": "7.18.2",
+    "lang": "th",
+    "platform": "android",
+    "model": "FRD-DL00",
+    "loctype": "1",
+    "os": "29",
+    "appid": "NxUUhRSQH3qPJmY2Vn/edRz4vrc="
+  },
+  "headers": {
+    "traceparent": "00-66c9d95b0ee9f6d5076bc58a5fe9e26d-b3e8231d75e9337e-01",
+    "v-mode": "1",
+    "x-dfpid": "/ZD4yzznpVsaNjuVSR5u301xtArzKpaMhMV9aDo5q0Vb8OSNJil5BPinB4cJWpDUaunwazDyR0RZpJmWlZ1zr5y4GtDW1LuJOkH5HPH/ST6Bsc5yDXrhP46STvPuqgRvCko6keTJ62hM9M24Ww4omF16FLaSB97zNJsS/Sx+Xlm05bfQAnIUH6QUD04mYrrmc7K+dEgDyL9bWaj0+15Wd3MQs7DwKHhX59Fz94dy4jrbkNiZehoN++JOXdIErjpAqwpLUvU7ZUUA31qIgc504yAe/OTci5NSxmN6EEJVjjdiF5sFsEsqcMIls4NQkhBIrqTFcp7it0/RqrZBzN7t0s7OHivXfOsr3wB/NHQ9V/P7fweCUVttHmdGSAaLWki38wZ9/U5QTddvvoCf6SZktLyCZPFcH9Z0pYrLIo4v8EVm+mS0R1gzMuNXWWTNMJwKj+LIfktfjqoq/IWM0BcffdLFtceIkJ0xTcuXn1LoGaskGSFLiq4eh0RZctMXYEeSDOWeI3R+HO5qgPbwAIu3hGPHHsl3gbeLL2hdq0SANNx4wkEsppXktdB/DbfH/IGkT/OgIkI1FR4Pb442nANilKgDFoBS5qEcVlfAQ2C6HTLK/9s9mAurfA02YlKcdTHbLI5JOlIvqRuwoWRYBKL9GCzb0fdTuzpujasIhJRM2qTMriGDKFpfixG11JCpi4RRR9IBpL5xfn7BoRyFqxO8z+/87JVQS7WWtKTpPBheBmwXS+OHOkhlw0Zup1f1Z1TVTVGkNZYaFTnQD9B5MyNfDuVoUQbE7e7EfpAiXcvw6OIBtMt8RcUmeHt+VUrc/YTvFGfY1L25NYtk4fsvHAl2/dPLuOGhsDlCbzFDC0OSfTD31yRQuiGxOxSKCUgMZrNeeHxUPs6qy4v8GdoyVNpVdnZ0pwv/xpBialeNzH/2kNw=",
+    "x-siua": "A2WP3Xz3nvvI9psHx/+7KoSkD5e0fmTDHd0r+sMgwOzoeswQhJnNMcSpWMxcTTBFfyvpVGFrB2gYBTXBReIqxZ3kkO9jsXbVg7MAFUGEiVo=",
+    "ts": "1769777150",
+    "littime": "1769777150669",
+    "litsign": "MXxjYTA3N2Y2NDExYzE5YTYyMjQ1OTk3YWFmMDQ3MmZhNg==",
+    "sts-sign": "NDkzZWFkY2RhNzkwZGJiMjczZGExNjM1YTg3NDIwZmI2OTk3OTY4MjNjMGE3NGMxYWEyNGZkODlhN2Y1YjBjMQ==",
+    "x-application-info": "CpPuRp4Vkbke_y5GUjoosd8FOz8bXODn0GHpl6sS7itOKomDqKulQyB4_wPKJ0Hm0vaLykp3cDH_bVGDQrQdszag_M_waOT_Ur3L0hLQ3pW31YdzolNh_fEihM5HJbGhKFBClWOVtYHHMkBoPaqj56WbZRxxzKXrBhejDg7sPtoyKe5Z5su651EpdEDA8k7ub-Wxy5ot5spIFT2aaHn8vKWEtTRjpdGg2JHtuYYCwp7uGe87ENsYxVASic0v8inaLcHXiZ0inEBVQvG5m36VXHKODytGa7RMqjQXotLnhNgxLQQ33NEd2lcvqJf7wHq_w2wHnjgfGMR5LH7151cSCuc4T3F6el36cMTdbMJPkrBOh1YN54QqstrkzjbfsvpREmlxC560qAY2MsEwS22umWl8p_42dUhUaDIxNnpnTDQ.",
+    "user-agent": "Mozilla/5.0 (Linux; Android 10; FRD-DL00 Build/QD4A.200805.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/94.0.4606.80 Mobile Safari/537.36"
+  }
+}
