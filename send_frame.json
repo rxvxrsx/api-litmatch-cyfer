@@ -1,5 +1,6 @@
 {
   "fixedSid": "session.v2.1454290725591308781",
+  "userInfoUrl": "https://www.litatom.com/api/sns/v1/lit/user/get_info/6733938be19b9277b905d264",
   "commonParams": {
     "use": "im",
     "gift_type": "frame",
@@ -16,7 +17,8 @@
     "model": "FRD-DL00",
     "loctype": "1",
     "os": "29",
-    "appid": "NxUUhRSQH3qPJmY2Vn/edRz4vrc="
+    "appid": "NxUUhRSQH3qPJmY2Vn/edRz4vrc=",
+    "from": "me" 
   },
   "headers": {
     "traceparent": "00-66c9d95b0ee9f6d5076bc58a5fe9e26d-b3e8231d75e9337e-01",
@@ -30,6 +32,5 @@
     "sts-sign": "YjY0NTgxNjE5NTlhNDVjZDM0MTVjNmQ4MmY0ZjViOTc5MjRkYTkxNWFlZGI2MzIxNGQxNjg1MjU4NGQ1YmQwNg==",
     "x-application-info": "8_w4Jf5Jf21glwpuvo7e5HIkCE6Td1FnlmGM5jVH8NIqt3mkANcassWtgXVgxfoDMdE1nTc8wz15IKUkpkfGeeMHtjX6k4J8sTJWD2mr_lYty5mrnDla94Hncz52TNnPE10zchznXsQFhAs_0gPLaIBuorQoxPWlFf4MYx2tH_plM_UAPFBgcVljVFOPJ5Bk8XViZSAaknPb13fSDIHP_BDDOerpjZLLIntLHAIXGNXjgC7mqsfXX8y3jEZBS0Q8hwqjrDAHiqChcO6bnOctNpd5VDiIdgswLqGY9UuHev0QmwNZWqA63p_JKoZ5MDRpvzukJbGMQDkLCvg_f80JMerQbnLo21mpzlGkDJ1GJ_b8f9Q05LrLIFUjt4iyq2qiWxLQ4ahN1gAFXhLdD8eViGl87X5LOVNGNk9MUFdId3k.",
     "user-agent": "Mozilla/5.0 (Linux; Android 10; FRD-DL00 Build/QD4A.200805.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/94.0.4606.80 Mobile Safari/537.36"
-
   }
 }
