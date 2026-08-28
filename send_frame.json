@@ -1,5 +1,5 @@
 {
-  "fixedSid": "session.v2.1454290725591308781",
+  "fixedSid": "session.v2.1472396877321748800",
   "commonParams": {
     "use": "im",
     "gift_type": "frame",
@@ -9,14 +9,14 @@
     "gift_num": "1",
     "enable_star": "0",
     "loc": "TH",
-    "uuid": "a8ae644c121b243c",
-    "version": "7.18.2",
+    "uuid": "6fb7ecc5c197554e",
+    "version": "7.7.0",
     "lang": "th",
     "platform": "android",
-    "model": "FRD-DL00",
+    "model": "CPH2015",
     "loctype": "1",
-    "os": "29",
-    "appid": "NxUUhRSQH3qPJmY2Vn/edRz4vrc="
+    "os": "28",
+    "appid": "NxUUhRSQH3qPJmY2Vn/2FedRz4vrc="
   },
   "headers": {
     "traceparent": "00-66c9d95b0ee9f6d5076bc58a5fe9e26d-b3e8231d75e9337e-01",
