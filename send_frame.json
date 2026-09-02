@@ -1,5 +1,5 @@
 {
-  "fixedSid": "session.v2.1472396877321748800",
+  "fixedSid": "session.v2.1472805636582327889",
   "commonParams": {
     "use": "im",
     "gift_type": "frame",
@@ -9,27 +9,26 @@
     "gift_num": "1",
     "enable_star": "0",
     "loc": "TH",
-    "uuid": "6fb7ecc5c197554e",
-    "version": "7.7.0",
+    "uuid": "564b994b627d4293",
+    "version": "7.18.2",
     "lang": "th",
     "platform": "android",
-    "model": "CPH2015",
-    "loctype": "1",
-    "os": "28",
+    "model": "V2231",
+    "loctype": "0",
+    "os": "35",
     "appid": "appid=NxUUhRSQH3qPJmY2Vn/edRz4vrc="
   },
   "headers": {
-    "traceparent": "00-cafd917c366b56005e2f7020410c9de8-133771d95fe29e4a-00",
+    "traceparent": "00-ff2f2f65d12d7228537e19763d37282d-a46e82a9bce88ebb-00",
     "v-mode": "1",
-    "x-dfpid": "cATaZ2rbTo4Vawm5C0YMZ6F2CbWZw1xxaSajos4PQrtOxXR7B876RKLPqwpN+MQ9DuZVKKn039pZdKtnW5LJhQ==",
-    "x-siua": "njoFAz77xfmrSg0y/zDYXQSrRYuCzTqhhaW6H9MYjzjazkg+Rn7KhPFEiY2S2cKw5aCtb7rnuR6Ux2Ggu3r6e1zx3+ktZ5/gfm5obCRBZhSUUrCgw2tG3pQ/6S++jv+njOj7s/1nGYIHDvHKPZm3+QpnN6TJgYx3B8pWGVsxuEs=",
-    "ts": "1787905613",
-    "littime": "054G-0PZ7-SB7Y-GDIS",
-    "litsign": "MXwwMjY5MTI2MzAwMzhhZGRhZTU4ZTNmYjZhMTg1ZTRjOA==",
-    "x-request-id": "fd825ee4-a3cd-4fae-9b52-da6ed2ecc83b",
-    "sts-sign": "YjU1YTNiY2RmYzg3OGZjNDM0NjRhZWQ0YjY0OWZhMWFhMWQwMWEwNTMwYmZmYWJkNDFhNGYzOWQ2YzZlYTg3Ng==",
-    "x-application-info": "V_PI0Th6Oa4av_AA2aRcjDNHYqTTnY4R6C8RBUzovoMOkoqZGgxALX4wVSNsosjLn2YrbaTnLYuV-iIh46-KNRnjT8GM0uDu1X-O-cKdR3HROebcI0EBQaHiSBcFPaY4gCAFqhJIheqsMA85a6ovTfzQBsfyKOg4MtrqEc5k_IeJQkqZADm0up40XU9j7zw7ACD_RqIBNr7o-5gbYF2grkgk-fSGh_4i66QfoyjoSoCnZZGqjaDecT8DhAH6Q5aONQDkWsfu5kSHFfN5c9Iw2etHVSaqxnRrh-2Eyp-q6mCw2E7i6AySdXZ-T_KXlGp9tyGxicjKbVdRCjAW_-4zgzyzJa7-a63yUPb88B9bIImPLzUiKYfElDRUe9950PgGapFGTEpmbTRXSnJZSVdZVA..",
-    "user-agent": "Mozilla/5.0 (Linux; Android 9; CPH2015 Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36"
-
+    "x-dfpid": "Ey1o2O5IyoKddRrwIcnDTafFa7XyRLkEFzQvrA3V26+JR/vFn9uauIkKkr48sDTB+HLJsd4rdpH7YF+MPpiSug==",
+    "x-siua": "dKIgX4WRpkhlitVq5IwYh0vijiQ0LOxcpCvT4U5f+HMiM310kKBArZzrfOR14snx1QMPAKgn3LmG0dm+HZxAX1gBhPlqr/IMjL4fT9DokMBJZoOZ9MBVbYrlLrlRknQw8mtBF1G/xwdcQyYRYCp/8w==",
+    "ts": "1788345627",
+    "littime": "1788345627685",
+    "litsign": "MXxjODk1M2QwYmY0NDI1MDA4YTg4MDE5NjY3NzI0ZWZiMw==",
+    "x-request-id": "7e0533d0-d42f-4952-b981-9030ec60c548",
+    "sts-sign": "YmQzYWFkZGIzNmRjZjgxNTk2YjU0OWI0ZDBiMTlmODg5ZmRlNTc0MjI5MDNiMTMzZWI0OTQyZGE4MjNhNjg0Yg==",
+    "x-application-info": "SGcJg2PB2B3G06GDpseamH78_m5obeasAOauVQKi2Ppb0wVd77RR4cLgN7hboijShSw0f3esNHa3v_pP9XAti5JHKo-9u55u0q1MqZU9FBLyxeE9oBxygf0Y_YSn4ybk8yIEkUH7GnneqfSHHJGtHS1wOj2kjI8dFn3Fb8yiLbXR1WOO64d6y4ij8EWl42T40maAKsoQvuarisb-3_DGns-OB0rqgPm8n0h4OBZh4Yxql_0ca2V6OW1SMng4QllH",
+    "accept-encoding": "gzip"
   }
 }
